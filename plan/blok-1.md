@@ -9,8 +9,8 @@ FTP-test indoor za 17 okt (zie `nulmetingen.md`); daarna stel ik de zones hieron
 
 | Week | Data | Uren (ca.) | Accent |
 |------|------|-----------|--------|
-| [43](week-2026-43.md) | 19–25 okt | 12,5 | Instap na deload |
-| [44](week-2026-44.md) | 26 okt – 1 nov | 13,5 | Volume iets omhoog |
+| [43](week-2026-43.md) | 19–25 okt | 13 | Instap na deload |
+| [44](week-2026-44.md) | 26 okt – 1 nov | 14 | Volume iets omhoog |
 | [45](week-2026-45.md) | 2–8 nov | 14,5 | Zwaarste week van het blok |
 | [46](week-2026-46.md) | 9–15 nov | 9,5 | Herstelweek + eerste wandel-loop (alleen bij groen licht fysio) |
 
@@ -34,7 +34,18 @@ afgeleid van max. hartslag fietsen ca. 192:
 _Schatting: wordt bijgesteld zodra we een drempelhartslag hebben._
 
 **Zwemmen (schatting CSS 1:25/100 m, na de test van 15 okt bijstellen)**
+Je trainingen in Strava (aug–okt) liggen gemiddeld rond 1:40/100 m over 2–2,6 km, techniek en
+rustige delen meegerekend. De test laat zien waar je CSS echt ligt.
 - Rustig/techniek: 1:35–1:40 · Duur: CSS + 5–8 s (1:30–1:33) · CSS: 1:25 · Snel: < 1:22.
+
+## Wat de Strava-data laat zien (aug – 6 okt 2026)
+- Je laatste twee harde weken (wk 39–40) zaten op 13–14 uur, met lange ritten van 3,7 en 4,9 uur.
+  De lange zaterdagrit begint daarom op 4 uur en loopt op naar 5 uur.
+- Zwemmen: steeds 2 keer per week, ca. 2,5 km per keer. Dat houden we vast, met meer structuur.
+- Strava schat je FTP op 218 W (jij gaat uit van 240 W). De FTP-test van 17 okt beslist.
+  Tot die tijd: voelen de sweet spot-blokken te zwaar, rijd ze dan op 195–205 W.
+- Week 38 was je ziek. Train nooit door met koorts of klachten onder de nek. Een snotneus
+  is prima, maar dan alleen rustig.
 
 ## Spelregels
 - **Knie**: fysio-oefeningen dagelijks (ca. 15–20 min) blijven doen. Geen lopen vóór
