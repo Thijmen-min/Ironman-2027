@@ -62,8 +62,9 @@ _Status: intake afgerond op 6 oktober 2026. Open punten staan onderaan._
 | Test | Datum | Waarde |
 |------|-------|--------|
 | FTP fietsen | okt 2026 | 240 W |
-| Drempeltempo / -hartslag lopen | – | nog testen na herstel knie |
-| CSS zwemmen (400 m + 200 m test) | – | nog testen (schatting 1:25/100 m) |
+| FTP-hertest + drempelhartslag fietsen | gepland za 17 okt 2026 | – |
+| Drempeltempo / -hartslag lopen | fase 2 (na herstel knie) | – |
+| CSS zwemmen (400 m + 200 m test) | gepland do 15 okt 2026 | schatting 1:25/100 m |
 | Rusthartslag | 6 okt 2026 | 48 (eerste meting) |
 | Max. hartslag lopen | schatting | ca. 195 |
 | Max. hartslag fietsen | schatting | ca. 192 |
@@ -81,4 +82,4 @@ _Status: intake afgerond op 6 oktober 2026. Open punten staan onderaan._
 ## Open punten
 - Sportmedische keuring inplannen.
 - Rusthartslag: gemiddelde over een paar weken vastleggen.
-- CSS-test zwemmen inplannen; drempeltest lopen na herstel knie.
+- Nulmetingen: zie `plan/nulmetingen.md` (CSS do 15 okt, FTP za 17 okt, looptest pas in fase 2).
