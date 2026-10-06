@@ -13,6 +13,9 @@ Elke 3e of 4e week is een herstelweek (±60–70% van het volume).
 | 5. Piek | 5 jul – 15 aug 2027 | 6 | Langste trainingen (ritten 5–6 u, lopen tot ±2,5 u), wedstrijdsimulaties |
 | 6. Taper | 16 aug – 5 sep 2027 | 3 | Volume afbouwen, intensiteit behouden, uitrusten en materiaal checken |
 
+## Weekschema's
+- [Blok 1](blok-1.md): week 43–46 (19 okt – 15 nov 2026), na de deload in week 42.
+
 ## Tussendoelen (voorstel)
 - Voorjaar 2027: halve marathon of 10 km als looptest.
 - Juni 2027: halve triatlon / 70.3 als generale repetitie.
