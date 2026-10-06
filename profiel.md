@@ -52,6 +52,10 @@ _Status: intake afgerond op 6 oktober 2026. Open punten staan onderaan._
 - Nu ca. **13 uur per week**; in de zomer van 2027 zoveel als nodig (geen beperking).
 - Vaste beperkingen: zie studie- en werktijden hierboven; zwemmen op di en do.
 - Geen drukke periodes of vakanties gepland.
+- **Trainingscyclus**: werkt in blokken van 4 weken (3 weken hard, 1 week rustig/deload).
+  Week van 5 oktober 2026 is week 3 van het lopende blok; deload in week 42
+  (12–18 oktober 2026). Het coachingsschema start daarna, maandag 19 oktober 2026,
+  en houdt dit 3+1-ritme aan.
 
 ## Materiaal & data
 - Garmin Forerunner 265 (rusthartslag, slaap, HRV), Wahoo fietscomputer, MyWhoosh.
